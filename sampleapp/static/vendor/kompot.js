@@ -1,0 +1,1 @@
+../../../kompot-min.js

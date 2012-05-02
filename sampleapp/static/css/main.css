@@ -1,0 +1,9 @@
+body { background-color: #eee; padding: 20px; font-family: Georgia; }
+#wrapper { width: 940px; padding: 20px 30px; margin: auto; background-color: #fff; box-shadow: 0 7px 10px #bbb; }
+
+#feed { list-style: none; width: 600px; margin: 0; padding: 0; overflow: hidden; }
+#feed > li { padding: 15px 0; border-bottom: 1px solid #bbb; }
+#feed > li img { float: left; }
+#feed > li .data p { margin: 0 0 0 60px; }
+#feed > li .data p.username { font-weight: bold; }
+#feed > li .data p.small { margin-top: 5px; font-size: 12px; color: #808080; }
